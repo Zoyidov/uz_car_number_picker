@@ -11,6 +11,8 @@
 * Localization for UZ, RU, and EN.
 * Glassmorphism design integration.
 
+
+
 ## 📸 Preview
 
 | Physical Entity | Legal Entity |
