@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uz_car_number_input/uz_car_number_input.dart';
+import 'package:uz_car_number_picker/uz_car_number_input.dart';
 
 void main() => runApp(const MaterialApp(home: ExampleHome()));
 
