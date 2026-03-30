@@ -26,7 +26,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  uz_car_number_picker: ^1.0.1
+  uz_car_number_picker: ^1.0.2
 
 ##Usage 🛠️
 

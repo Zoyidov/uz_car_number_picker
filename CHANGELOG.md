@@ -1,3 +1,8 @@
+## 1.0.2
+
+* Preview added
+
+
 ## 1.0.1
 
 * Added detailed documentation.
