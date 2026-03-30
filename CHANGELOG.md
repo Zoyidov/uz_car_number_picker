@@ -1,3 +1,8 @@
+## 1.0.2
+
+* Preview added
+
+
 ## 1.0.1
 
 * Added detailed documentation.
@@ -10,6 +15,8 @@
 * Support for Physical and Legal entity plates.
 * Localization for UZ, RU, and EN.
 * Glassmorphism design integration.
+
+
 
 ## 📸 Preview
 
