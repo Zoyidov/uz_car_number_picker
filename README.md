@@ -16,8 +16,9 @@ A highly customizable and elegant Flutter widget for picking Uzbekistan car lice
 
 ## Preview 📸
 
-![Uz Car Number Picker Preview](https://raw.githubusercontent.com/username/uz_car_number_picker/main/screenshots/preview.gif)
-*(Eslatma: GitHub'dagi screenshots papkasiga rasm yoki GIF yuklab, linkini shu yerga qo'ying)*
+https://github.com/Zoyidov/uz_car_number_picker/blob/master/screenshots/img1.jpg
+https://github.com/Zoyidov/uz_car_number_picker/blob/master/screenshots/img2.jpg
+
 
 ## Installation 📦
 
